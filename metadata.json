@@ -1,0 +1,8 @@
+{
+  "name": "Copy of SilverCare AI - Elderly Health Management",
+  "description": "A comprehensive AI-powered health management platform for the elderly, featuring real-time vital sign monitoring, AI health assistants, and family interaction tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
